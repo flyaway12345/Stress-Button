@@ -10,7 +10,7 @@ export class AppComponent {
 
   playPop(){
     let audio = new Audio();
-    audio.src = "src/assets/pop.mp3";
+    audio.src = "../src/assets/pop.mp3";
     audio.load();
     audio.play();
   }
