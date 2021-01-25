@@ -1,0 +1,10 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2;
+    display: block;
+    margin-top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: auto;
+    height:20%;
+}
